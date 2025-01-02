@@ -12,3 +12,14 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Special thanks to [sainnhe](https://github.com/sainnhe) for the original [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) theme.
 
 ![Group 1](https://github.com/user-attachments/assets/99a181b7-66e8-49eb-a8fb-d0f4ff4c8bdc)
+
+
+## Installation
+This repo uses [`just`](https://github.com/casey/just) to build everything. Run the following command to build colorscheme:
+
+```bash
+just
+```
+
+> [!TIP]
+> You may need [Go](https://go.dev/) >=1.21.0 to build everything
