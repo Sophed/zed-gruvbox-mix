@@ -1,7 +1,7 @@
-id = "gruvbox-material"
-name = "Gruvbox Material"
+id = "gruvbox-material-mix"
+name = "Gruvbox Material Mix"
 version = "1.0.0"
 schema_version = 1
-authors = ["tokiory <tokiory.work@gmail.com>"]
-repository = "https://github.com/tokiory/zed-gruvbox-material"
-description = "Gruvbox Material theme for Zed editor"
+authors = ["tokiory <tokiory.work@gmail.com>", "sophed"]
+repository = "https://github.com/Sophed/zed-gruvbox-mix"
+description = "Gruvbox Material Mix theme for Zed editor"

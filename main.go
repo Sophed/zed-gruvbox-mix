@@ -39,7 +39,7 @@ func main() {
 		result = strings.ReplaceAll(result, getMarker(k), v)
 	}
 
-	if err := os.WriteFile("./themes/gruvbox-material.json", []byte(result), 0600); err != nil {
+	if err := os.WriteFile("./themes/gruvbox-material-mix.json", []byte(result), 0600); err != nil {
 		panic(err)
 	}
 }

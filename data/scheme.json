@@ -1,9 +1,9 @@
 {
-  "name": "Gruvbox Material",
-  "author": "tokiory <tokiory.work@gmail.com>",
+  "name": "Gruvbox Material Mix",
+  "author": "tokiory, sophed",
   "themes": [
     {
-      "name": "Gruvbox Material",
+      "name": "Gruvbox Material Mix",
       "appearance": "dark",
       "style": {
         "border": "{{border}}ff",
